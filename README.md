@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @felixmattersberger
-- 👀 I’m interested in.
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: felix@mattersberger.de or felix.mattersberger@student.uni-tuebingen.de
 
 <!---
