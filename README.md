@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @felixmattersberger
+- I am currently studying medical computer science at the University of Tübingen.
 - 📫 How to reach me: felix@mattersberger.de or felix.mattersberger@student.uni-tuebingen.de
 
 <!---
